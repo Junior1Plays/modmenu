@@ -1,9 +1,13 @@
 body {
     background-color: rgb(95, 95, 95);
+    background-image: url("content/images/background.jpg");
     color: white;
 }
 h1 {
     font: normal 24pt Arial;
+}
+p {
+    font: normal 10pt Arial;
 }
 #da_buttons {
     text-align: center;
